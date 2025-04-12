@@ -47,4 +47,4 @@ I am always eager to learn and adapt, staying updated with the latest technologi
 📫 **Connect with me:**
 - [LinkedIn](https://www.linkedin.com/in/jitendrarawat4)
 - [GitHub](https://github.com/jitendrarawat4)
-- Email: jitendra.uk188@gmail.com
+- Email: jitendra.rawat15@yahoo.com
