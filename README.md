@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jitendra Rawat
 
-I'm a passionate **Backend Developer** with 4 years of experience in building secure, scalable, and cloud-native applications. I specialize in **Java**, **Spring Boot**, **microservices**, and **API development**, with hands-on experience in cloud deployments, distributed systems, and leveraging **Generative AI tools** to accelerate development.
+I'm a passionate **Backend Developer** with 4+ years of experience in building secure, scalable, and cloud-native applications. I specialize in **Java**, **Spring Boot**, **microservices**, and **API development**, with hands-on experience in cloud deployments, distributed systems, and leveraging **Generative AI tools** to accelerate development.
 
 ---
 
@@ -41,7 +41,7 @@ I'm a passionate **Backend Developer** with 4 years of experience in building se
 
 ---
 
-## 🚀 Recent Projects
+## 🚀 Academic Projects
 
 - **EZCars** – Vehicle rental app with advanced search filters and integrated Stripe payments  
 - **Spendwise** – Mobile expense tracker with Firebase backend and AI-powered budget alerts  
